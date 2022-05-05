@@ -1,3 +1,5 @@
-1.this is my file
-2.i am going to make something here
-3.just for fun
+this is my file
+i am going to make something here
+just for fun
+a=1
+b=2
